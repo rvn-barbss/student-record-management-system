@@ -24,7 +24,7 @@
                 <VBox spacing="5.0">
                     <children>
                         <Label text="Course:" />
-                        <TextField fx:id="txtCourse" promptText="Enter course" />
+                        <ChoiceBox fx:id="cbCourse" prefWidth="200.0" />
                     </children>
                 </VBox>
                 <VBox spacing="5.0">
